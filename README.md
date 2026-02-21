@@ -5,7 +5,7 @@ It supports real-time group chat, private messaging using nicknames, and a respo
 
 ## ✨ Features
 
-- 🔁 Real-time multi-user chat using UDP
+- 🔁 Real-time multi-user chat using TCP
 - 🧑‍🤝‍🧑 Private messaging with `@nickname: message` format
 - 💬 Kivy-based interactive UI with focus and scroll management
 - ✅ Works on both PC and Android (.apk available)
